@@ -4,10 +4,13 @@
 }: {
   imports = [];
   environment.systemPackages = with pkgs; [
-    cowsay
     firefox
-    vim
     git
     neovim
+    discord
+    gnome-keyring
+    bottom
+    fzf
+    ripgrep
   ];
 } 
