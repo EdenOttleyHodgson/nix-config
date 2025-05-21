@@ -12,6 +12,5 @@
     bottom
     fzf
     ripgrep
-    fish
   ];
 } 
