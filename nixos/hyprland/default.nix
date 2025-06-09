@@ -6,6 +6,8 @@
     hyprpaper
     hyprutils
     waybar
+    mako
+    grimblast
   ];
 
 }
